@@ -11,6 +11,6 @@ There are some screenshots of my application.
 
 ![](https://raw.githubusercontent.com/abindent/chatbot-simple-js/master/pic%20decimal2.PNG)
 
-![](https://raw.githubusercontent.com/abindent/chatbot-simple-js/master/pic%20decimal3.PNG)
+![](https://raw.githubusercontent.com/abindent/chatbot-simple-js/master/pic%20decimal%203.PNG)
 
 ![](https://raw.githubusercontent.com/abindent/chatbot-simple-js/master/contextmenu.PNG)
