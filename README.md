@@ -9,8 +9,8 @@ After installing the `node_modules` run `npm start` command in your terminal and
 
 There are some screenshots of my application.
 
-https://raw.githubusercontent.com/abindent/chatbot-simple-js/master/pic%20decimal2.PNG
+![](https://raw.githubusercontent.com/abindent/chatbot-simple-js/master/pic%20decimal2.PNG)
 
-https://raw.githubusercontent.com/abindent/chatbot-simple-js/master/pic%20decimal3.PNG
+![](https://raw.githubusercontent.com/abindent/chatbot-simple-js/master/pic%20decimal3.PNG)
 
-https://raw.githubusercontent.com/abindent/chatbot-simple-js/master/contextmenu.PNG
+![](https://raw.githubusercontent.com/abindent/chatbot-simple-js/master/contextmenu.PNG)
