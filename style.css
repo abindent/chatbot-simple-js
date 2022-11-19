@@ -591,16 +591,6 @@ Ensure the default browser behavior of the `hidden` attribute.
     border-color: #555;
 }
 
-.button {
-  background-color: #4CAF50; /* Green */
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-}
 
 @media (min-width: 640px) {
 
@@ -608,6 +598,7 @@ Ensure the default browser behavior of the `hidden` attribute.
     font-size: 1rem;
     line-height: 1.5rem;
   }
+
 
 
 }
