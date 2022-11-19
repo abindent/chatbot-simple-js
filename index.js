@@ -68,6 +68,12 @@ document.addEventListener("DOMContentLoaded", () => {
     })
 })
 
+function runForMobile(){
+            const userinput = document.getElementById("usrinpt")
+            let user = userinput.value;
+            userinput.innerHTML = user;
+            output(user);
+}
 
 // Function Output
 function output(user) {
